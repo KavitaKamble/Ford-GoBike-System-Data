@@ -1,5 +1,7 @@
 # Ford-GoBike-System-Data
-2019 Ford GoBike System Data Exploration And Visualization
+
+2019 Ford GoBike System Data Exploration And Visualization --- Udacity Nanodegree Project
+
 Dataset
 The Data consists of information about Bay Wheels GoBike trips for year 2019: There are 2506983 rows of trip data and 19 columns. The data provides three type of information for each trip. Duration of the trip -- duration_sec, start_time, end_time Station information -- start_station_id, start_station_latitude, start_station_longitude, end_station_id, end_station_latitude, end_station_longitude rider's information -- user_type, bike_share_for_all_trip, rental_access_method.
 
